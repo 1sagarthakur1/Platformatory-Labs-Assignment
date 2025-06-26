@@ -23,5 +23,4 @@ This project is a full-stack user management application with:
 
 ---
 
-## 📦 Folder Structure
 
