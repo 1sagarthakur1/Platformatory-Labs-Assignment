@@ -1,4 +1,4 @@
-# Platformatory-Labs-Assignment# Platformatory Labs - User Management App (Node.js + React + Temporal)
+# Platformatory Labs - User Management App (Node.js + React + Temporal)
 
 This project is a full-stack user management application with:
 
